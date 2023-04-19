@@ -10,7 +10,7 @@ namespace VSGIT.MyNewStuff
     {
         public static void Main()
         {
-            Console.WriteLine("the fuck??");
+            Console.WriteLine("og shit i forgot somethin");
         }
     }
 }
