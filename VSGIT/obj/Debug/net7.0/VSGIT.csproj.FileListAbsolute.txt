@@ -1,0 +1,15 @@
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\bin\Debug\net7.0\VSGIT.exe
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\bin\Debug\net7.0\VSGIT.deps.json
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\bin\Debug\net7.0\VSGIT.runtimeconfig.json
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\bin\Debug\net7.0\VSGIT.dll
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\bin\Debug\net7.0\VSGIT.pdb
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.csproj.AssemblyReference.cache
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.AssemblyInfoInputs.cache
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.AssemblyInfo.cs
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.csproj.CoreCompileInputs.cache
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.dll
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\refint\VSGIT.dll
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.pdb
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\VSGIT.genruntimeconfig.cache
+C:\My Projects\C# Projects\AnotherTryButGood\VSGIT\obj\Debug\net7.0\ref\VSGIT.dll
